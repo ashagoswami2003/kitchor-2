@@ -1,0 +1,113 @@
+@media only screen and (max-width:435px) {
+
+    .first-card-con {
+        height: 100vh;
+    }
+    .cards {
+        padding-left: 20px;
+        width: 400px !important;
+    }
+    
+    .second-card-con {
+        padding-top: 100px;
+        
+    }
+
+    .third-main-sec-con {
+        padding-top: 100px;
+    }
+    .second-main-sec-con {
+        padding-top: 130px;
+    }
+    
+    
+    .second-left {
+        height: 60vh;
+    
+    }
+
+    .second-right img {
+        height: 400px;
+        object-fit: cover;
+    }
+    .fourth-card-con {
+        padding-top: 70px;
+    }
+
+    .fifth-main-sec-con {
+        padding-top: 70px;
+        height: 90vh;
+    }
+    .fifth-right-con {
+        padding-top: 50px;
+    }
+    .fifth-right-con h1 {
+        width: 100%;
+    }
+    .fifth-right-con p {
+        width: 100%;
+    }
+    .six-main-sec-con {
+        padding-top: 100px;
+        
+    }
+    .six-card-con {
+        padding-top: 50px;
+    }
+    .text-con {
+        height: 250px;
+    }
+    .seven-main-sec-con {
+        padding-top: 70px;
+    }
+    .seven-left-con {
+        height: 50vh;
+    }
+    .seven-right-con {
+        height: 50vh;
+    }
+    .seven-right-con img {
+        height: 100% !important;
+    }
+
+    .eight-main-sec-con {
+        padding-top: 70px;
+    }
+    .eight-card-con {
+        padding-top: 50px;
+    }
+  
+    .eight-card {
+        width: 100% !important;
+    }
+
+    .nine-main-sec-con {
+        padding-top: 70px;
+        height: 290vh;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: start;
+    }
+    .nine-sec-card-con {
+        padding-top: 50px;
+    }
+    .nineth-card:nth-child(2) {
+        width: 350px;
+    }
+    .nineth-card:nth-child(3) {
+        width: 350px;
+    }
+
+    .nineth-card:nth-child(4) {
+        width: 350px;
+    }
+    .nineth-card:nth-child(5) {
+        width: 350px !important;
+    }
+    .nine-main-sec-con h5 {
+        margin: 0 !important;
+        text-align: center;
+        font-size: 16px !important;
+    }
+}

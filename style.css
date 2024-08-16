@@ -1,0 +1,291 @@
+.br {
+    border: 2px solid red;
+}
+
+.bb {
+    border: 2px solid blue;
+}
+
+.bm {
+    border: 2px solid magenta;
+}
+
+.bk {
+    border: 2px solid black;
+}
+
+.by {
+    border: 2px solid yellow;
+}
+
+.bl {
+    border: 2px solid lightseagreen;
+}
+
+.h-50px {
+    height: 50px;
+}
+.h-70px {
+    height: 70px;
+}
+.h-750px {
+    height: 750px;
+}
+
+.h-230vh {
+    height: 230vh;
+}
+
+.bg {
+    background-color: #22262c;
+}
+
+.h-100px {
+    height: 100px;
+}
+
+.h-200px {
+    height: 200px;
+}
+
+.h-400px {
+    height: 400px;
+}
+
+.h-600px {
+    height: 600px;
+}
+
+.h-650px {
+    height: 650px;
+}
+
+.h-700px {
+    height: 700px;
+}
+
+.h-500px {
+    height: 500px;
+}
+
+.h-550px {
+    height: 550px;
+}
+
+.h-350px {
+    height: 350px;
+}
+
+.h-250px {
+    height: 250px;
+}
+
+.h-730px {
+    height: 730px;
+}
+
+.h-800px {
+    height: 800px;
+}
+.h-150vh {
+    height: 150vh;
+}
+/* .first-main-sec-con {
+    filter: brightness(.5);
+} */
+
+.card-h1 {
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+.card-h5 {
+    letter-spacing: 2px;
+}
+
+.card-p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    width: 30%;
+}
+
+.last-card-p {
+    width: 90%;
+}
+
+.cards button:hover {
+    background-color: rgba(252, 164, 0, 0.747);
+    color: white;
+
+}
+
+.first-main-sec-con {
+    content: '';
+    background: url(kitchen\ 3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.fs {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+    z-index: -1;
+}
+
+.fp {
+    color: white;
+    width: 40%;
+    text-align: center;
+}
+
+.first-main-sec-con button:hover {
+    background-color: orange;
+    color: white;
+}
+
+.sec-card {
+    width: 330px;
+}
+
+.second-card:nth-child(1) {
+    background: url(card\ 3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.second-card:nth-child(2) {
+    background: url(card\ 2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.second-card:nth-child(3) {
+    background: url(card\ 1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.second-card:nth-child(4) {
+    background: url(card\ 4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec-card-h4 {
+    font-size: 25px;
+    width: 30%;
+}
+
+.fw {
+    width: 80%;
+    font-size: 60px;
+    font-family: arial;
+    font-weight: bolder;
+}
+
+.tac {
+    text-align: center;
+    width: 90%;
+}
+
+.third-card {
+    transition: .3s ease-in-out;
+}
+
+.third-card:hover img {
+    background-color: rgba(239, 167, 34, 0.703) !important;
+    transition: .3s ease-in-out;
+    scale: 1.1;
+}
+
+.bgr {
+    background-color: red;
+}
+
+.second-data-con {
+    background: url(bg\ img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+.ls {
+    letter-spacing: 2px;
+}
+.p {
+    width: 75%;
+    font-size: 20px;
+}
+
+.fch {
+    width: 400px;
+    height: 250px;
+}
+
+.bg2 {
+    background-color: #31363c;
+}
+.eight-card h2 {
+    transition: .3s ease-in-out;
+}
+.eight-card h2:hover {
+    color: orange !important;
+    transition: .3s ease-in-out;
+}
+.eight-card a {
+    transition: .3s ease-in-out;
+}
+.eight-card a:hover {
+    color: orange !important;
+    transition: .3s ease-in-out;
+}
+.text-sec h5 {
+    transition: .3s ease-in-out;
+}
+.text-sec:hover h5 {
+    color: orange !important;
+    transition: .3s ease-in-out;
+}
+.admin-con h5 {
+    transition: .3s ease-in-out;
+}
+.admin-con h5:hover {
+    color: orange !important;
+    transition: .3s ease-in-out;
+}
+
+.second-icon-con {
+    transition: .3s ease-in-out;
+}
+.second-icon-con i:hover {
+    color: orange !important;
+    transition: .3s ease-in-out;
+}
+
+.nineth-card li a:hover {
+    color: #f9af30 !important;
+}
+.email-con input {
+    outline: none;
+    /* color: rgba(0, 0, 0, 0.703); */
+    background: none;
+    width: 60%;
+    color: rgba(255, 255, 255, 0.719);
+    border: none;
+}
+.email-con input ::placeholder {
+    font-size: 15px;
+    
+}
